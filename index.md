@@ -2,7 +2,7 @@
 lesson-example: "https://carpentries.github.io/lesson-example/"
 ---    
 
-![Group Website with Jekyll](../images/site_banner.png)
+![Group Website with Jekyll](./images/site_banner.png)
 
 # {{ site.title }}
   
