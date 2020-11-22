@@ -4,6 +4,8 @@ lesson-example: "https://carpentries.github.io/lesson-example/"
 
 ![Group Website with Jekyll](./images/site_banner.png)
 
+[![Group Website with Jekyll](./images/site_banner.png)]((https://JulianKarlBauer.github.io/group-website/))
+
 # {{ site.title }}
   
 ## Description
