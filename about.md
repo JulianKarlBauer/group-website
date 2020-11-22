@@ -1,4 +1,4 @@
- # About
+# About
 
 ## Project
 This reseach project is all about this.
